@@ -1,0 +1,26 @@
+pre {
+    background: #ddd;
+    padding: 10px;
+}
+h2 {
+    margin-top: 20px;
+}
+footer {
+    margin: 20px;
+}
+
+.dark_button {
+    background-color: #242e80;
+    border: None
+}
+
+.bigboy {
+    font-size: x-large;
+    padding-left: 0 !important;
+    color: #ddd;
+    pointer-events: None !important;
+}
+
+.navbar {
+    background-color: #242e80 !important;
+}
